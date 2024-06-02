@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 2
+date: 2019-07-01
+img: reinforcement_learning.png
+alt: image-alt
+project-date: July 2019
+category: Machine Learning, Reinforcement Learning
+description: An optimized AI system that plays Flappy Bird in python. Made to teach myself about Reinforcement Learning and the pygame python module.
+---

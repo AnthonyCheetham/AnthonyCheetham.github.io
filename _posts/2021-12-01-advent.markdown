@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2021-12-01
+img: advent_2021.png
+alt: image-alt
+project-date: December 2021
+category: Coding Challenge
+description: My solutions for the 2021 Advent of Code. I challenged myself to use only Jupyter Notebooks, avoid importing modules, and to use classes as much as possible.
+code: https://github.com/AnthonyCheetham/advent_of_code2021
+---

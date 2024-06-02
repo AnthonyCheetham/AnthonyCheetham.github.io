@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2022-12-01
+img: advent_2022.png
+alt: image-alt
+project-date: December 2022
+category: Coding Challenge
+description: My solutions for the 2022 Advent of Code. I again avoided importing modules, and this time used a mix of classes and functions.
+code: https://github.com/AnthonyCheetham/advent_of_code2022
+---

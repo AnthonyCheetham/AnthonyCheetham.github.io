@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2019-10-01
+img: mypuzzle.png
+alt: image-alt
+project-date: October 2019
+reason: Insight Data Science Fellowship project
+category: Machine Learning, NLP, Computer Vision, Classification, Web App
+description: Simplify the search for jigsaw puzzles using MyPuzzle, a website harnessing the power of NLP and computer vision techniques to classify and rate puzzles. Made as part of the Insight Data Science Fellowship major project. Website no longer active.
+code: https://github.com/AnthonyCheetham/jigsaw
+---
